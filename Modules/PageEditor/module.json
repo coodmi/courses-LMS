@@ -1,0 +1,11 @@
+{
+    "name": "PageEditor",
+    "alias": "pageeditor",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PageEditor\\Providers\\PageEditorServiceProvider"
+    ],
+    "files": []
+}

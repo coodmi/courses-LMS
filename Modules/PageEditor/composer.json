@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/pageeditor",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\PageEditor\\": "app/",
+            "Modules\\PageEditor\\Database\\Factories\\": "database/factories/",
+            "Modules\\PageEditor\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\PageEditor\\Tests\\": "tests/"
+        }
+    }
+}
