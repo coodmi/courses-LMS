@@ -214,6 +214,7 @@ class DemoCoursesSeeder extends Seeder
                     'instructor_id'      => $instructor->id,
                     'course_category_id' => $category->id,
                     'expiry_type'        => 'unlimited',
+                    'course_type'        => 'online',
                     'created_from'       => 'admin',
                 ])
             );
