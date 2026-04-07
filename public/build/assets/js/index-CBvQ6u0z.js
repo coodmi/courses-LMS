@@ -1,0 +1,1 @@
+import{j as r}from"./react-vendor-xYZnmIII.js";import{EditorBody as o}from"./components-DNSAku1O.js";import t from"./breadcrumb-WRHpECvT.js";import i from"./content-CbuT8emd.js";import"./inertia-vendor-cBbDTmhJ.js";import"./ui-vendor-Ds9iwIxa.js";const y=()=>r.jsxs(o,{children:[t("Privacy Policy","privacy-policy"),i()]});export{y as default};

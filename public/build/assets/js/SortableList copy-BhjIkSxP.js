@@ -1,0 +1,1 @@
+import{j as s}from"./react-vendor-xYZnmIII.js";import{S as a,v as e}from"./interactive-vendor-B1OgcAgP.js";import"./inertia-vendor-cBbDTmhJ.js";import"./ui-vendor-Ds9iwIxa.js";const x=({items:t,children:r,id:o})=>s.jsx(a,{id:o,items:t,strategy:e,children:r});export{x as default};

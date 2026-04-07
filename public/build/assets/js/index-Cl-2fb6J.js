@@ -1,0 +1,1 @@
+import{j as o}from"./react-vendor-xYZnmIII.js";import{EditorBody as r}from"./components-DNSAku1O.js";import t from"./breadcrumb-WRHpECvT.js";import i from"./content-DEIta80j.js";import"./inertia-vendor-cBbDTmhJ.js";import"./ui-vendor-Ds9iwIxa.js";const p=()=>o.jsxs(r,{children:[t("Terms and Conditions","terms-and-conditions"),i()]});export{p as default};

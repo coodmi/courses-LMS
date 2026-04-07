@@ -1,0 +1,1 @@
+import{j as t}from"./react-vendor-xYZnmIII.js";import"./inertia-vendor-cBbDTmhJ.js";import"./ui-vendor-Ds9iwIxa.js";const o=()=>t.jsx("div",{children:t.jsx("h1",{children:"DripContent"})});export{o as default};

@@ -1,0 +1,1 @@
+import{j as r}from"./react-vendor-xYZnmIII.js";import{EditorBody as o}from"./components-DNSAku1O.js";import t from"./breadcrumb-WRHpECvT.js";import m from"./top-instructors-AO_5ZfUI.js";import"./inertia-vendor-cBbDTmhJ.js";import"./ui-vendor-Ds9iwIxa.js";const d=()=>r.jsxs(o,{children:[t("Our Team","our-team"),m()]});export{d as default};

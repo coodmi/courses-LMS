@@ -1,0 +1,1 @@
+function h(f,c,{checkForDefaultPrevented:t=!0}={}){return function(u){if(f==null||f(u),t===!1||!u.defaultPrevented)return c==null?void 0:c(u)}}function m(f,[c,t]){return Math.min(t,Math.max(c,f))}function p(f,c,{checkForDefaultPrevented:t=!0}={}){return function(u){if(f==null||f(u),t===!1||!u.defaultPrevented)return c==null?void 0:c(u)}}export{p as $,m as a,h as c};

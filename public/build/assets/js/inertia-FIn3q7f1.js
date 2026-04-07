@@ -1,0 +1,1 @@
+const f=(c,a,t)=>{const e=c.target;if(e.type==="file"){const n=e.files;n&&n[0]&&(a(e.name,n[0]),t==null||t(URL.createObjectURL(n[0])))}else a(e.name,e.value)},l=(c,a)=>{const t=c.target;if(t.type==="file"){const e=t.files;e&&e[0]&&a(URL.createObjectURL(e[0]))}};export{l as a,f as o};

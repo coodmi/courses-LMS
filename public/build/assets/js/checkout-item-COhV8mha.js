@@ -1,0 +1,1 @@
+import{j as m}from"./react-vendor-xYZnmIII.js";const x=({from:e="web",item:t,item_id:r,children:o,className:s})=>m.jsx("a",{href:route("payments.index",{from:e,item:t,id:r}),className:s,children:o});export{x as C};

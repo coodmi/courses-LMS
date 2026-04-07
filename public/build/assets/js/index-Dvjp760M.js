@@ -1,0 +1,1 @@
+import{j as r}from"./react-vendor-xYZnmIII.js";import{EditorBody as o}from"./components-DNSAku1O.js";import t from"./breadcrumb-WRHpECvT.js";import i from"./content-DuQ6iWqI.js";import"./inertia-vendor-cBbDTmhJ.js";import"./ui-vendor-Ds9iwIxa.js";const a=()=>r.jsxs(o,{children:[t("Refund Policy","refund-policy"),i()]});export{a as default};

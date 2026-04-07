@@ -1,0 +1,1 @@
+import{E as o}from"./editor-provider-0C4WlrME.js";import{R as r}from"./react-vendor-xYZnmIII.js";import"./v4-DsPse6Vr.js";import"./inertia-vendor-cBbDTmhJ.js";import"./ui-vendor-Ds9iwIxa.js";const p=()=>{const t=r.useContext(o);if(!t)throw new Error("useEditor hook must be used within the editor provider");return t};export{p as useEditor};
