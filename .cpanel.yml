@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/nexreale/lms.nexrealestate.co
+    - /bin/cp -R . $DEPLOYPATH
