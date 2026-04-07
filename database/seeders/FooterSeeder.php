@@ -79,7 +79,7 @@ class FooterSeeder extends Seeder
             [
                 'type' => 'copyright',
                 'slug' => 'copyright',
-                'title' => '© Copyright 2025 UI Lib, All rights reserved.',
+                'title' => '© Copyright 2025 Alpha LMS, All rights reserved.',
                 'items' => [],
             ],
         ];
