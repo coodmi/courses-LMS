@@ -187,8 +187,8 @@
       "_v4-DsPse6Vr.js"
     ]
   },
-  "_element-render-DY4rK5mE.js": {
-    "file": "assets/js/element-render-DY4rK5mE.js",
+  "_element-render-DbQh_s4Q.js": {
+    "file": "assets/js/element-render-DbQh_s4Q.js",
     "name": "element-render",
     "isDynamicEntry": true,
     "imports": [
@@ -902,12 +902,12 @@
     "isDynamicEntry": true
   },
   "resources/css/app.css": {
-    "file": "assets/css/app-DDPEPDOe.css",
+    "file": "assets/css/app-CFQEk0Vi.css",
     "src": "resources/css/app.css",
     "isEntry": true
   },
   "resources/js/app.tsx": {
-    "file": "assets/js/app-wtcuYyaA.js",
+    "file": "assets/js/app-_rJe9nl5.js",
     "name": "app",
     "src": "resources/js/app.tsx",
     "isEntry": true,
@@ -1136,7 +1136,7 @@
       "resources/js/pages/editor/main/dnd/DragOverlay.tsx",
       "resources/js/pages/editor/main/dnd/DroppableContainer.tsx",
       "resources/js/pages/editor/main/dnd/SortableList copy.tsx",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
       "resources/js/pages/editor/main/dnd/SortableListNew.tsx",
       "resources/js/pages/editor/main/icon-picker.tsx",
       "resources/js/pages/editor/main/navbar/index.tsx",
@@ -1146,59 +1146,59 @@
       "resources/js/pages/editor/main/navbar/partials/redo-undo.tsx",
       "resources/js/pages/editor/main/page-builder.tsx",
       "resources/js/pages/editor/main/sidebar/index.tsx",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-button.tsx",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-checkbox.tsx",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-custom-code.tsx",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-dropdown-menu-item.tsx",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-dropdown-menu-label.tsx",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-heading.tsx",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-icon.tsx",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-iframe.tsx",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-image.tsx",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-input.tsx",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-label.tsx",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-paragraph.tsx",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-radio.tsx",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-select.tsx",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-span.tsx",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-textarea.tsx",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-video.tsx",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
       "_element-wrapper-BnFoieV6.js",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/layouts/dynamic-wrapper.tsx",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/layouts/editor-hr.tsx",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
+      "_element-render-DbQh_s4Q.js",
       "resources/js/pages/editor/main/sidebar/tabs/components/elements/simplified-editor-element.tsx",
       "resources/js/pages/editor/main/sidebar/tabs/components/index.tsx",
       "resources/js/pages/editor/main/sidebar/tabs/components/placeholders/components/accordion-placeholder.tsx",
@@ -1562,7 +1562,7 @@
       "resources/js/pages/system/partials/backgup-downloader.tsx"
     ],
     "css": [
-      "assets/css/app-DDPEPDOe.css"
+      "assets/css/app-CFQEk0Vi.css"
     ]
   },
   "resources/js/components/iframe.tsx": {
@@ -5798,7 +5798,7 @@
     ]
   },
   "resources/js/pages/editor/index.tsx": {
-    "file": "assets/js/index-CGWylAOI.js",
+    "file": "assets/js/index-DaAKjrOR.js",
     "name": "index",
     "src": "resources/js/pages/editor/index.tsx",
     "isDynamicEntry": true,
@@ -5822,7 +5822,7 @@
       "resources/js/pages/editor/main/navbar/partials/redo-undo.tsx",
       "resources/js/pages/editor/main/dnd/DndEditorCanvas.tsx",
       "resources/js/pages/editor/main/dnd/DragOverlay.tsx",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
       "_element-wrapper-BnFoieV6.js",
       "_index-D-Nk4yec.js",
       "resources/js/pages/editor/main/dnd/ActionsWrapper.tsx",
@@ -6004,7 +6004,7 @@
       "resources/js/pages/editor/main/sidebar/tabs/settings/index.tsx"
     ],
     "css": [
-      "assets/css/app-DDPEPDOe.css"
+      "assets/css/app-CFQEk0Vi.css"
     ]
   },
   "resources/js/pages/editor/lib/components.tsx": {
@@ -6039,7 +6039,7 @@
     ]
   },
   "resources/js/pages/editor/lib/dynamic-component-registry.tsx": {
-    "file": "assets/js/dynamic-component-registry-BE12qlcM.js",
+    "file": "assets/js/dynamic-component-registry-CV6FzXZO.js",
     "name": "dynamic-component-registry",
     "src": "resources/js/pages/editor/lib/dynamic-component-registry.tsx",
     "isDynamicEntry": true,
@@ -6093,7 +6093,7 @@
     ]
   },
   "resources/js/pages/editor/lib/tailwind-safelist.tsx": {
-    "file": "assets/js/tailwind-safelist-BxOWEKnB.js",
+    "file": "assets/js/tailwind-safelist-C9BrMNOt.js",
     "name": "tailwind-safelist",
     "src": "resources/js/pages/editor/lib/tailwind-safelist.tsx",
     "isDynamicEntry": true,
@@ -6106,7 +6106,7 @@
       "_interactive-vendor-B1OgcAgP.js"
     ],
     "css": [
-      "assets/css/app-DDPEPDOe.css"
+      "assets/css/app-CFQEk0Vi.css"
     ]
   },
   "resources/js/pages/editor/main/color-picker.tsx": {
@@ -6197,14 +6197,14 @@
     ]
   },
   "resources/js/pages/editor/main/dnd/SortableListNew.tsx": {
-    "file": "assets/js/SortableListNew-NsHPe9Cg.js",
+    "file": "assets/js/SortableListNew-D6JboZe-.js",
     "name": "SortableListNew",
     "src": "resources/js/pages/editor/main/dnd/SortableListNew.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_react-vendor-xYZnmIII.js",
       "_interactive-vendor-B1OgcAgP.js",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
       "resources/js/pages/editor/main/dnd/DroppableContainer.tsx",
       "_inertia-vendor-cBbDTmhJ.js",
       "_ui-vendor-Ds9iwIxa.js",
@@ -6379,7 +6379,7 @@
     ]
   },
   "resources/js/pages/editor/main/page-builder.tsx": {
-    "file": "assets/js/page-builder-DehBZATv.js",
+    "file": "assets/js/page-builder-C1qAPQcE.js",
     "name": "page-builder",
     "src": "resources/js/pages/editor/main/page-builder.tsx",
     "isDynamicEntry": true,
@@ -6388,7 +6388,7 @@
       "_ui-components-CQM92IK3.js",
       "resources/js/pages/editor/hooks/use-editor.tsx",
       "resources/js/pages/editor/main/dnd/DndEditorCanvas.tsx",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
       "_inertia-vendor-cBbDTmhJ.js",
       "_ui-vendor-Ds9iwIxa.js",
       "_interactive-vendor-B1OgcAgP.js",
@@ -6467,7 +6467,7 @@
     ]
   },
   "resources/js/pages/editor/main/sidebar/index.tsx": {
-    "file": "assets/js/index-BNBOZTUE.js",
+    "file": "assets/js/index-B4GlLmqC.js",
     "name": "index",
     "src": "resources/js/pages/editor/main/sidebar/index.tsx",
     "isDynamicEntry": true,
@@ -6598,7 +6598,7 @@
       "resources/js/pages/editor/main/sidebar/tabs/settings/index.tsx"
     ],
     "css": [
-      "assets/css/app-DDPEPDOe.css"
+      "assets/css/app-CFQEk0Vi.css"
     ]
   },
   "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-button.tsx": {
@@ -6641,7 +6641,7 @@
     ]
   },
   "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-custom-code.tsx": {
-    "file": "assets/js/editor-custom-code-BxV6aoqD.js",
+    "file": "assets/js/editor-custom-code-BUaRMKKF.js",
     "name": "editor-custom-code",
     "src": "resources/js/pages/editor/main/sidebar/tabs/components/elements/components/editor-custom-code.tsx",
     "isDynamicEntry": true,
@@ -6650,7 +6650,7 @@
       "_ui-components-CQM92IK3.js",
       "resources/js/pages/editor/hooks/use-editor.tsx",
       "resources/js/pages/editor/lib/custom-code-registry.tsx",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
       "_inertia-vendor-cBbDTmhJ.js",
       "_ui-vendor-Ds9iwIxa.js",
       "_interactive-vendor-B1OgcAgP.js",
@@ -6998,7 +6998,7 @@
     ]
   },
   "resources/js/pages/editor/main/sidebar/tabs/components/elements/layouts/dynamic-wrapper.tsx": {
-    "file": "assets/js/dynamic-wrapper-DQrXQa4I.js",
+    "file": "assets/js/dynamic-wrapper-CQ8Durt7.js",
     "name": "dynamic-wrapper",
     "src": "resources/js/pages/editor/main/sidebar/tabs/components/elements/layouts/dynamic-wrapper.tsx",
     "isDynamicEntry": true,
@@ -7603,7 +7603,7 @@
     ]
   },
   "resources/js/pages/editor/main/sidebar/tabs/customize/classes.tsx": {
-    "file": "assets/js/classes-z4MmjVG2.js",
+    "file": "assets/js/classes-BH-t83SW.js",
     "name": "classes",
     "src": "resources/js/pages/editor/main/sidebar/tabs/customize/classes.tsx",
     "isDynamicEntry": true,
@@ -7619,7 +7619,7 @@
       "_v4-DsPse6Vr.js"
     ],
     "css": [
-      "assets/css/app-DDPEPDOe.css"
+      "assets/css/app-CFQEk0Vi.css"
     ]
   },
   "resources/js/pages/editor/main/sidebar/tabs/customize/custom-code.tsx": {
@@ -7755,7 +7755,7 @@
     ]
   },
   "resources/js/pages/editor/main/sidebar/tabs/customize/index.tsx": {
-    "file": "assets/js/index-D9dGyvR5.js",
+    "file": "assets/js/index-D53ytbU3.js",
     "name": "index",
     "src": "resources/js/pages/editor/main/sidebar/tabs/customize/index.tsx",
     "isDynamicEntry": true,
@@ -7791,7 +7791,7 @@
       "_debounce-CWHP_ANh.js"
     ],
     "css": [
-      "assets/css/app-DDPEPDOe.css"
+      "assets/css/app-CFQEk0Vi.css"
     ]
   },
   "resources/js/pages/editor/main/sidebar/tabs/customize/input.tsx": {
@@ -7908,7 +7908,7 @@
     ]
   },
   "resources/js/pages/editor/main/sidebar/tabs/index.tsx": {
-    "file": "assets/js/index-DEcvtKtC.js",
+    "file": "assets/js/index-CYKC2wr5.js",
     "name": "index",
     "src": "resources/js/pages/editor/main/sidebar/tabs/index.tsx",
     "isDynamicEntry": true,
@@ -8038,7 +8038,7 @@
       "resources/js/pages/editor/page-jsx/home-5/top-course.tsx"
     ],
     "css": [
-      "assets/css/app-DDPEPDOe.css"
+      "assets/css/app-CFQEk0Vi.css"
     ]
   },
   "resources/js/pages/editor/main/sidebar/tabs/layers/index.tsx": {
@@ -8536,7 +8536,7 @@
     ]
   },
   "resources/js/pages/editor/page-jsx/dynamic/top-instructors-carousel-1.tsx": {
-    "file": "assets/js/top-instructors-carousel-1-DQn6Rdsl.js",
+    "file": "assets/js/top-instructors-carousel-1-dmA7N1Sc.js",
     "name": "top-instructors-carousel-1",
     "src": "resources/js/pages/editor/page-jsx/dynamic/top-instructors-carousel-1.tsx",
     "isDynamicEntry": true,
@@ -8551,7 +8551,7 @@
     ]
   },
   "resources/js/pages/editor/page-jsx/dynamic/top-instructors-carousel-2.tsx": {
-    "file": "assets/js/top-instructors-carousel-2-DWIulAi4.js",
+    "file": "assets/js/top-instructors-carousel-2-DLuWSJ8y.js",
     "name": "top-instructors-carousel-2",
     "src": "resources/js/pages/editor/page-jsx/dynamic/top-instructors-carousel-2.tsx",
     "isDynamicEntry": true,
@@ -9364,14 +9364,14 @@
     ]
   },
   "resources/js/pages/editor/page-jsx/page-renderer.tsx": {
-    "file": "assets/js/page-renderer-CKBRUDfj.js",
+    "file": "assets/js/page-renderer-CDtvWLyP.js",
     "name": "page-renderer",
     "src": "resources/js/pages/editor/page-jsx/page-renderer.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_react-vendor-xYZnmIII.js",
       "_editor-provider-0C4WlrME.js",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
       "_inertia-vendor-cBbDTmhJ.js",
       "_ui-vendor-Ds9iwIxa.js",
       "_v4-DsPse6Vr.js",
@@ -10252,7 +10252,7 @@
     ]
   },
   "resources/js/pages/frontend/index.tsx": {
-    "file": "assets/js/index-Cs0ydLTZ.js",
+    "file": "assets/js/index-BJE4QJ9s.js",
     "name": "index",
     "src": "resources/js/pages/frontend/index.tsx",
     "isDynamicEntry": true,
@@ -10278,7 +10278,7 @@
     ]
   },
   "resources/js/pages/frontend/page-renderer.tsx": {
-    "file": "assets/js/page-renderer-BDOnkaJh.js",
+    "file": "assets/js/page-renderer-C9LV220L.js",
     "name": "page-renderer",
     "src": "resources/js/pages/frontend/page-renderer.tsx",
     "isDynamicEntry": true,
@@ -10379,7 +10379,7 @@
     ]
   },
   "resources/js/pages/frontend/show.tsx": {
-    "file": "assets/js/show-BNCje4mm.js",
+    "file": "assets/js/show-7wP1o0Fl.js",
     "name": "show",
     "src": "resources/js/pages/frontend/show.tsx",
     "isDynamicEntry": true,
@@ -10475,7 +10475,7 @@
       "resources/js/pages/editor/page-jsx/home-5/top-course.tsx",
       "resources/js/pages/editor/page-jsx/our-team/top-instructors.tsx",
       "_editor-provider-0C4WlrME.js",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
       "resources/js/pages/editor/hooks/use-editor.tsx",
       "_element-wrapper-BnFoieV6.js",
       "resources/js/pages/editor/main/dnd/ActionsWrapper.tsx",
@@ -10983,7 +10983,7 @@
     ]
   },
   "resources/js/pages/intro/home-1.tsx": {
-    "file": "assets/js/home-1-DtqZ8x3B.js",
+    "file": "assets/js/home-1-VkyLkb17.js",
     "name": "home-1",
     "src": "resources/js/pages/intro/home-1.tsx",
     "isDynamicEntry": true,
@@ -11042,7 +11042,7 @@
     ]
   },
   "resources/js/pages/intro/home-2.tsx": {
-    "file": "assets/js/home-2-KdB9d4N0.js",
+    "file": "assets/js/home-2-DAZsRpd8.js",
     "name": "home-2",
     "src": "resources/js/pages/intro/home-2.tsx",
     "isDynamicEntry": true,
@@ -11102,7 +11102,7 @@
     ]
   },
   "resources/js/pages/intro/home-3.tsx": {
-    "file": "assets/js/home-3-C1NXpaQN.js",
+    "file": "assets/js/home-3-BuTSWNJ9.js",
     "name": "home-3",
     "src": "resources/js/pages/intro/home-3.tsx",
     "isDynamicEntry": true,
@@ -11162,7 +11162,7 @@
     ]
   },
   "resources/js/pages/intro/home-4.tsx": {
-    "file": "assets/js/home-4-D768Gzjh.js",
+    "file": "assets/js/home-4-ChyEauK4.js",
     "name": "home-4",
     "src": "resources/js/pages/intro/home-4.tsx",
     "isDynamicEntry": true,
@@ -11224,7 +11224,7 @@
     ]
   },
   "resources/js/pages/intro/home-5.tsx": {
-    "file": "assets/js/home-5-CqzY0cmf.js",
+    "file": "assets/js/home-5-0WMz41l6.js",
     "name": "home-5",
     "src": "resources/js/pages/intro/home-5.tsx",
     "isDynamicEntry": true,
@@ -11285,7 +11285,7 @@
     ]
   },
   "resources/js/pages/intro/index.tsx": {
-    "file": "assets/js/index-kkOwzoHB.js",
+    "file": "assets/js/index-Dr-2sO3x.js",
     "name": "index",
     "src": "resources/js/pages/intro/index.tsx",
     "isDynamicEntry": true,
@@ -11310,7 +11310,7 @@
       "_index.browser-OxPLOBIU.js",
       "_editor-provider-0C4WlrME.js",
       "_v4-DsPse6Vr.js",
-      "_element-render-DY4rK5mE.js",
+      "_element-render-DbQh_s4Q.js",
       "resources/js/pages/editor/hooks/use-editor.tsx",
       "_element-wrapper-BnFoieV6.js",
       "_index-D-Nk4yec.js",
@@ -11808,7 +11808,7 @@
     ]
   },
   "resources/js/pages/intro/partials/home-1/top-instructors.tsx": {
-    "file": "assets/js/top-instructors-COIFZ8sF.js",
+    "file": "assets/js/top-instructors-BH6QptaS.js",
     "name": "top-instructors",
     "src": "resources/js/pages/intro/partials/home-1/top-instructors.tsx",
     "isDynamicEntry": true,
@@ -12110,7 +12110,7 @@
     ]
   },
   "resources/js/pages/intro/partials/home-2/top-instructors.tsx": {
-    "file": "assets/js/top-instructors-DPHG1_rH.js",
+    "file": "assets/js/top-instructors-Dg_M_IkU.js",
     "name": "top-instructors",
     "src": "resources/js/pages/intro/partials/home-2/top-instructors.tsx",
     "isDynamicEntry": true,
@@ -12410,7 +12410,7 @@
     ]
   },
   "resources/js/pages/intro/partials/home-3/top-instructors.tsx": {
-    "file": "assets/js/top-instructors-BzZHN8xJ.js",
+    "file": "assets/js/top-instructors-DJScCbYC.js",
     "name": "top-instructors",
     "src": "resources/js/pages/intro/partials/home-3/top-instructors.tsx",
     "isDynamicEntry": true,
@@ -12549,7 +12549,7 @@
     ]
   },
   "resources/js/pages/intro/partials/home-4/instructor.tsx": {
-    "file": "assets/js/instructor-n06dTIhe.js",
+    "file": "assets/js/instructor-1DGurfK0.js",
     "name": "instructor",
     "src": "resources/js/pages/intro/partials/home-4/instructor.tsx",
     "isDynamicEntry": true,
@@ -12874,7 +12874,7 @@
     ]
   },
   "resources/js/pages/intro/partials/home-5/instructor.tsx": {
-    "file": "assets/js/instructor-7jIgVdqO.js",
+    "file": "assets/js/instructor-C2t6HS4v.js",
     "name": "instructor",
     "src": "resources/js/pages/intro/partials/home-5/instructor.tsx",
     "isDynamicEntry": true,
@@ -13037,7 +13037,7 @@
     ]
   },
   "resources/js/pages/intro/partials/instructor-socials.tsx": {
-    "file": "assets/js/instructor-socials-BcyB03fk.js",
+    "file": "assets/js/instructor-socials-B5j8qsB9.js",
     "name": "instructor-socials",
     "src": "resources/js/pages/intro/partials/instructor-socials.tsx",
     "isDynamicEntry": true,

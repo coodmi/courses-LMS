@@ -11,10 +11,15 @@ interface Props {
 
 const InstructorSocials = ({ instructor, className, buttonClass, buttonVariant = 'secondary' }: Props) => {
    const getSocialLink = (host: string, instructor: Instructor) => {
-      const social_links = typeof instructor.user.social_links === 'string' ? JSON.parse(instructor.user.social_links) : instructor.user.social_links;
-      const socialLink = social_links?.find((link: { host: string; profile_link: string }) => link.host === host);
-
-      return socialLink ? socialLink.profile_link : null;
+      const raw = typeof instructor.user.social_links === 'string' ? JSON.parse(instructor.user.social_links) : instructor.user.social_links;
+      if (!raw) return null;
+      // Handle array format: [{host, profile_link}]
+      if (Array.isArray(raw)) {
+         const found = raw.find((link: { host: string; profile_link: string }) => link.host === host);
+         return found ? found.profile_link : null;
+      }
+      // Handle object format: {twitter: url, linkedin: url}
+      return raw[host] || null;
    };
 
    const website = getSocialLink('website', instructor);
