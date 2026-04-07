@@ -53,6 +53,8 @@ class DemoExamsSeeder extends Seeder
                 'max_attempts'      => 3,
                 'total_questions'   => 5,
                 'expiry_type'       => 'unlimited',
+                'thumbnail'         => 'https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=600',
+                'banner'            => 'https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=1200',
                 'category'          => $webCat,
                 'questions' => [
                     ['q' => 'What does PHP stand for?', 'options' => ['PHP: Hypertext Preprocessor', 'Personal Home Page', 'Private Hypertext Protocol', 'Public HTML Page'], 'correct' => 0],
@@ -76,6 +78,8 @@ class DemoExamsSeeder extends Seeder
                 'max_attempts'      => 3,
                 'total_questions'   => 5,
                 'expiry_type'       => 'unlimited',
+                'thumbnail'         => 'https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?w=600',
+                'banner'            => 'https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?w=1200',
                 'category'          => $webCat,
                 'questions' => [
                     ['q' => 'Which keyword declares a block-scoped variable in JavaScript?', 'options' => ['var', 'let', 'def', 'dim'], 'correct' => 1],
@@ -99,6 +103,8 @@ class DemoExamsSeeder extends Seeder
                 'max_attempts'      => 5,
                 'total_questions'   => 5,
                 'expiry_type'       => 'unlimited',
+                'thumbnail'         => 'https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600',
+                'banner'            => 'https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200',
                 'category'          => $generalCat,
                 'questions' => [
                     ['q' => 'What is the chemical symbol for water?', 'options' => ['O2', 'H2O', 'CO2', 'HO'], 'correct' => 1],
@@ -124,6 +130,8 @@ class DemoExamsSeeder extends Seeder
                 'max_attempts'      => 2,
                 'total_questions'   => 5,
                 'expiry_type'       => 'unlimited',
+                'thumbnail'         => 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600',
+                'banner'            => 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200',
                 'category'          => $webCat,
                 'questions' => [
                     ['q' => 'Which Artisan command creates a new middleware?', 'options' => ['make:filter', 'make:middleware', 'make:guard', 'make:pipe'], 'correct' => 1],
@@ -149,6 +157,8 @@ class DemoExamsSeeder extends Seeder
                 'max_attempts'      => 2,
                 'total_questions'   => 5,
                 'expiry_type'       => 'unlimited',
+                'thumbnail'         => 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600',
+                'banner'            => 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200',
                 'category'          => $dsCat,
                 'questions' => [
                     ['q' => 'Which Python library is primarily used for data manipulation?', 'options' => ['NumPy', 'Pandas', 'Matplotlib', 'Scikit-learn'], 'correct' => 1],
@@ -174,6 +184,8 @@ class DemoExamsSeeder extends Seeder
                 'max_attempts'      => 2,
                 'total_questions'   => 5,
                 'expiry_type'       => 'unlimited',
+                'thumbnail'         => 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600',
+                'banner'            => 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200',
                 'category'          => $webCat,
                 'questions' => [
                     ['q' => 'What does REST stand for?', 'options' => ['Remote Execution State Transfer', 'Representational State Transfer', 'Resource State Transfer', 'Relational State Transfer'], 'correct' => 1],
