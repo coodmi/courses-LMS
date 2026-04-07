@@ -21,14 +21,6 @@ class DemoInstructorsSeeder extends Seeder
                 'skills'      => ['React', 'Node.js', 'AWS', 'TypeScript'],
             ],
             [
-                'name'        => 'James Carter',
-                'email'       => 'james@demo.com',
-                'photo'       => 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300',
-                'designation' => 'Data Science Expert',
-                'biography'   => 'James is a data scientist and ML engineer with a PhD in Computer Science. He has worked with Fortune 500 companies to build predictive models and data pipelines.',
-                'skills'      => ['Python', 'Machine Learning', 'TensorFlow', 'SQL'],
-            ],
-            [
                 'name'        => 'Emily Chen',
                 'email'       => 'emily@demo.com',
                 'photo'       => 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300',
